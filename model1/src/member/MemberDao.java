@@ -5,7 +5,7 @@ import javax.naming.*;
 import javax.sql.*;
 
 public class MemberDao {
-	// 싱글톤 객체 생성을 낭비하지 않기위해
+	// 싱글톤 : 객체 생성을 낭비하지 않기 위해
 	private static MemberDao instance = new MemberDao();
 
 	private MemberDao() {

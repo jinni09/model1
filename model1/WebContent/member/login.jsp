@@ -7,10 +7,8 @@
 </head>
 <body>
 	<form action="../member/loginPro.jsp" name="frm">
-		<table class="tab" cellpadding="10" align="center">
-			<caption>
-				<h2>로그인</h2>
-			</caption>
+		<table class="tab">
+			<caption>로그인</caption>
 			<tr>
 				<td><input type="text" name="m_email" placeholder="이메일" required="required"></td>
 			</tr>

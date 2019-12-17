@@ -12,10 +12,8 @@
 		MemberDao md = MemberDao.getInstance();
 		Member mb = md.infoselect(m_no);
 	%>
-	<table class="tab" cellpadding="10" align="center">
-		<caption>
-			<h2>내정보보기</h2>
-		</caption>
+	<table class="tab">
+		<caption>내정보보기</caption>
 		<tr height="40%">
 			<td colspan="2"><img alt="pic" src="../img/info.jpg"
 				height="150"></td>

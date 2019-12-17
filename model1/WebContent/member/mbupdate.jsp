@@ -97,10 +97,8 @@
 	<form action="../member/mbupdatePro.jsp" name="frm" onsubmit="return chk()">
 		<input type="hidden" name="check" value="false">
 		<input type="hidden" name="m_no" id="m_no" value="<%=m_no%>">
-		<table class="tab" cellpadding="10" align="center">
-			<caption>
-				<h2>회원정보수정</h2>
-			</caption>
+		<table class="tab">
+			<caption>회원정보수정</caption>
 			<tr height="50">
 				<td class="join1"><font class="red">*</font>이메일</td>
 				<td><input type="hidden" name="m_email"

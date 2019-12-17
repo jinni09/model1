@@ -21,10 +21,8 @@
 
 	<form name="frm" action="../member/mbdeletePro.jsp" method="post"
 		onsubmit="return dechk()">
-		<table class="tab" cellpadding="10" align="center">
-			<caption>
-				<h2>회원탈퇴</h2>
-			</caption>
+		<table class="tab">
+			<caption>회원탈퇴</caption>
 			<tr>
 				<td class="join1"><font class="red">*</font>암호</td>
 				<td><input type="password" name="m_passwd"></td>

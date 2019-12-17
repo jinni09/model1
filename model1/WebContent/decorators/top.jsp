@@ -12,7 +12,7 @@
 	<table width="100%">
 		<tr>
 			<td width="10%" align="left">
-				<a href="main.jsp"><h2>Top.jsp</h2></a>
+				<h2><a href="main.jsp">Top.jsp</a></h2>
 			</td>
 			<%
 				String m_no = (String) session.getAttribute("m_no");

@@ -129,10 +129,8 @@
 
 	<form action="../member/joinPro.jsp" name="frm" onsubmit="return chk()">
 		<input type="hidden" name="check" value="false">
-		<table class="tab" cellpadding="10" align="center">
-			<caption>
-				<h2>회원가입</h2>
-			</caption>
+		<table class="tab">
+			<caption>회원가입</caption>
 			<tr height="50">
 				<td class="join1"><font class="red">*</font>이메일</td>
 				<td><input type="email" name="m_email" required="required">

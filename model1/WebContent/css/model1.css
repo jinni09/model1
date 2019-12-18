@@ -48,6 +48,15 @@ caption {
 	padding: 10px;
 }
 
+.t100 {
+	width: 100%;
+}
+
+.t5100 {
+	height: 5;
+	width: 100%;
+}
+
 .title {
 	font-weight: bold;
 	border-right: solid 1px;

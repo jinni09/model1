@@ -1,9 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Model1</title>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.js"></script>
 <script type="text/javascript">
 	function chk() {
@@ -124,8 +119,6 @@
 		});
 	});
 </script>
-</head>
-<body>
 
 	<form action="../member/joinPro.jsp" name="frm" onsubmit="return chk()">
 		<input type="hidden" name="check" value="false">
@@ -159,6 +152,3 @@
 			</tr>
 		</table>
 	</form>
-
-</body>
-</html>

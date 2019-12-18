@@ -1,11 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Model1</title>
-</head>
-<body>
+
 	<form action="../member/loginPro.jsp" name="frm">
 		<table class="tab">
 			<caption>로그인</caption>
@@ -27,6 +21,3 @@
 		<font style="text-decoration: underline;" size="2"> 회원가입 </font>
 		</a>
 	</div>
-
-</body>
-</html>

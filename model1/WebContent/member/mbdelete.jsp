@@ -1,10 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ include file="../session/sessionChk.jsp" %>
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Model1</title>
+
 <script type="text/javascript">
 	function dechk() {
 		var aa = confirm("정말로 탈퇴하시겠습니까?");
@@ -15,11 +11,8 @@
 		}
 	}
 </script>
-</head>
-<body>
 
-	<form name="frm" action="../member/mbdeletePro.jsp" method="post"
-		onsubmit="return dechk()">
+	<form name="frm" action="../member/mbdeletePro.jsp" method="post" onsubmit="return dechk()">
 		<table class="tab">
 			<caption>회원탈퇴</caption>
 			<tr>
@@ -32,6 +25,3 @@
 			</tr>
 		</table>
 	</form>
-
-</body>
-</html>

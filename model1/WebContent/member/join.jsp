@@ -132,22 +132,22 @@
 		<table class="tab">
 			<caption>회원가입</caption>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>이메일</td>
+				<td class="title"><font class="red">*</font>이메일</td>
 				<td><input type="email" name="m_email" required="required">
 					<input type="button" value="중복체크" onclick="emailchk()"></td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>비밀번호</td>
+				<td class="title"><font class="red">*</font>비밀번호</td>
 				<td><input type="password" name="m_passwd" id="m_passwd" required="required" maxlength="20">
 				<span id="pass"></span>
 				</td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>비밀번호 확인</td>
+				<td class="title"><font class="red">*</font>비밀번호 확인</td>
 				<td><input type="password" name="m_passwd2" required="required" maxlength="20"></td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>닉네임</td>
+				<td class="title"><font class="red">*</font>닉네임</td>
 				<td><input type="text" name="m_nick" id="m_nick" required="required" maxlength="10">
 				<span id="check"></span>
 				</td>

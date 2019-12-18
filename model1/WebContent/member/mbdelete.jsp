@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ include file="../session/sessionChk.jsp" %>
 <!DOCTYPE html>
 <html>
@@ -24,7 +23,7 @@
 		<table class="tab">
 			<caption>회원탈퇴</caption>
 			<tr>
-				<td class="join1"><font class="red">*</font>암호</td>
+				<td class="title"><font class="red">*</font>암호</td>
 				<td><input type="password" name="m_passwd"></td>
 			</tr>
 			<tr>

@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8" import="member.*, java.util.*" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" import="member.*, java.util.*" %>
 <%@ include file="../session/sessionChk.jsp" %>
 <!DOCTYPE html>
 <html>
@@ -100,23 +99,23 @@
 		<table class="tab">
 			<caption>회원정보수정</caption>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>이메일</td>
+				<td class="title"><font class="red">*</font>이메일</td>
 				<td><input type="hidden" name="m_email"
 					value="<%=mb.getM_email()%>"> <label><%=mb.getM_email()%></label></td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>비밀번호</td>
+				<td class="title"><font class="red">*</font>비밀번호</td>
 				<td><input type="password" name="m_passwd" id="m_passwd" 
 					value="<%=mb.getM_passwd()%>" required="required" maxlength="20">
 				<span id="pass"></span>
 				</td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>비밀번호 확인</td>
+				<td class="title"><font class="red">*</font>비밀번호 확인</td>
 				<td><input type="password" name="m_passwd2" required="required" maxlength="20"></td>
 			</tr>
 			<tr height="50">
-				<td class="join1"><font class="red">*</font>닉네임</td>
+				<td class="title"><font class="red">*</font>닉네임</td>
 				<td><input type="text" name="m_nick" id="m_nick"
 					value="<%=mb.getM_nick()%>" required="required" maxlength="10">
 					<span id="check"></span>

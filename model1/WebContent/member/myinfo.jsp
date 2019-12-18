@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8" import="member.*, java.util.*" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" import="member.*, java.util.*" %>
 <%@ include file="../session/sessionChk.jsp" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -19,11 +18,11 @@
 				height="150"></td>
 		</tr>
 		<tr height="15%">
-			<td class="join1">이메일</td>
+			<td class="title">이메일</td>
 			<td><%=mb.getM_email()%></td>
 		</tr>
 		<tr height="15%">
-			<td class="join1">닉네임</td>
+			<td class="title">닉네임</td>
 			<td><%=mb.getM_nick()%></td>
 		</tr>
 	</table>

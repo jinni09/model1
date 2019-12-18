@@ -2,9 +2,9 @@
 <%@ include file="../session/sessionChk.jsp" %>
 
 <script type="text/javascript">
-	function dechk() {
-		var aa = confirm("정말로 탈퇴하시겠습니까?");
-		if (aa) {
+	function delchk() {
+		var del = confirm("정말로 탈퇴하시겠습니까?");
+		if (del) {
 			return true;
 		} else {
 			return false;
@@ -12,7 +12,7 @@
 	}
 </script>
 
-	<form name="frm" action="../member/mbdeletePro.jsp" method="post" onsubmit="return dechk()">
+	<form name="frm" action="../member/mbdeletePro.jsp" method="post" onsubmit="return delchk()">
 		<table class="tab">
 			<caption>회원탈퇴</caption>
 			<tr>

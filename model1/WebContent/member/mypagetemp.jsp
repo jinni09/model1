@@ -8,7 +8,7 @@
 		}
 	%>
 
-	<table align="center" width="100%">
+	<table class="t100">
 		<tr>
 			<td width="20%" height="50"><jsp:include page="mypage.jsp" /></td>
 			<td width="80%" class="mypagetemp"><jsp:include page="<%=mypgm%>" /></td>

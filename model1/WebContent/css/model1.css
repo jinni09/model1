@@ -52,11 +52,6 @@ caption {
 	width: 100%;
 }
 
-.t5100 {
-	height: 5;
-	width: 100%;
-}
-
 .title {
 	font-weight: bold;
 	border-right: solid 1px;
@@ -104,6 +99,15 @@ caption {
 .b {
 	color: orange;
 	font-weight: 900;
+}
+
+.menu {
+	width: 100%;
+}
+
+.menu td {
+	width: 20%;
+	text-align: center;
 }
 
 a:link {color:black; text-decoration:none}

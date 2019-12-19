@@ -28,3 +28,16 @@
 ![model1_5](https://user-images.githubusercontent.com/58936727/70916662-6499bb80-205f-11ea-9404-f453304d79d8.jpg)
 
 ![model1_6](https://user-images.githubusercontent.com/58936727/70916683-6d8a8d00-205f-11ea-87d2-d4e37564264e.jpg)
+
+
+
+- - -
+- - -
+- - -
+- - -
+- - -
+
+![java_build_path](https://user-images.githubusercontent.com/58936727/71193885-3ec61e00-22ce-11ea-9c98-a47c5ab874ab.png)
+
+![project_facets](https://user-images.githubusercontent.com/58936727/71193899-41c10e80-22ce-11ea-8e70-9ca78c1cb04d.png)
+

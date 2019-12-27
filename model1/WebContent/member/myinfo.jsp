@@ -3,7 +3,7 @@
 
 	<%
 		MemberDao md = MemberDao.getInstance();
-		Member mb = md.infoselect(m_no);
+		Member mb = md.select(m_no);
 	%>
 	<table class="tab">
 		<caption>내정보보기</caption>

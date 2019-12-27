@@ -67,40 +67,6 @@ caption {
 	color: red;
 }
 
-.inputleft {
-	text-align: left;
-}
-
-.category {
-	font-size: 12px;
-	color: gray;
-}
-
-.subject {
-	text-align: left;
-	font-size: 13px;
-}
-
-.nickname {
-	text-align: center;
-	font-size: 13px;
-}
-
-.default {
-	text-align: center;
-	font-size: 12px;
-}
-
-.list {
-	text-align: center;
-	font-size: 13px;
-}
-
-.b {
-	color: orange;
-	font-weight: 900;
-}
-
 .menu {
 	width: 100%;
 }

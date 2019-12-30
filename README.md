@@ -15,6 +15,7 @@
 - - -
 + 로그인
 + 회원가입, 회원정보 수정, 회원 탈퇴
++ 마이페이지
 - - -
 
 ![model1_1](https://user-images.githubusercontent.com/58936727/70916610-5481dc00-205f-11ea-9dab-e28b525ef17c.jpg)

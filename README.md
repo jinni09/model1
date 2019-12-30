@@ -5,7 +5,7 @@
 * Tool: STS 3.7.3
 * JDK 1.8.0
 * Tomcat 8.0
-* framework: Model(Javabeans), Vuew+Controller(JSP)
+* framework: Model(Javabeans), View+Controller(JSP)
 - - -
 #### (Java Project) 
 ### model1

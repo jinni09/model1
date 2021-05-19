@@ -12,12 +12,14 @@
 
 ## model1
 ![model1](https://user-images.githubusercontent.com/58936727/70977218-d0783480-20f0-11ea-8f0e-7394f5a0f2d9.png)
-- - -
-- - -
+
+<br>
+
 + 로그인
 + 회원가입, 회원정보 수정, 회원 탈퇴
 + 마이페이지
-- - -
+
+<br>
 
 ![model1_1](https://user-images.githubusercontent.com/58936727/70916610-5481dc00-205f-11ea-9dab-e28b525ef17c.jpg)
 
@@ -31,11 +33,8 @@
 
 ![model1_6](https://user-images.githubusercontent.com/58936727/70916683-6d8a8d00-205f-11ea-87d2-d4e37564264e.jpg)
 
-- - -
-- - -
-- - -
-- - -
-- - -
+<br>
+<br>
 
 ![java_build_path](https://user-images.githubusercontent.com/58936727/71193885-3ec61e00-22ce-11ea-9c98-a47c5ab874ab.png)
 

@@ -1,14 +1,16 @@
 # model1
 
-- - -
-#### 개발 환경
+
+## 개발 환경
 * Tool: STS 3.7.3
 * JDK 1.8.0
 * Tomcat 8.0
 * framework: Model(Javabeans), View+Controller(JSP)
-- - -
+
+<br>
+
 #### (Java Project) 
-### model1
+## model1
 ![model1](https://user-images.githubusercontent.com/58936727/70977218-d0783480-20f0-11ea-8f0e-7394f5a0f2d9.png)
 - - -
 - - -
